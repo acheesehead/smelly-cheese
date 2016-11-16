@@ -1,2 +1,2 @@
 # smelly-cheese
-This is a repository for ugly code.
+This is a repository for smelly code.
