@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char** argv) {
-  printf("This is smelly cheese in the new-cheese branch!!!\n");
+  printf("new cheese!!!\n");
   return 0;
 }
